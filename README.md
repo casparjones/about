@@ -19,9 +19,9 @@ Take a quick glance at the **Github About Page** below as [an example](http://an
 Features
 -----------------
 1. A better self-introduction page of Github than official one.
-2. Clearly list your Github profile, public repositories and contributiong frequency.
+2. Clearly list your Github profile, public repositories and contribution frequency.
 3. You can customise and extend your information on the page. 
-4. Easy to use. There only 2 steps then you can have your own **Github About Page**.
+4. Easy to use. There are only 2 steps then you can have your own **Github About Page**.
 5. Update notification when new version or bugfix is available.
 
 
@@ -34,31 +34,31 @@ It's very easy, there are only two steps you need to do:
 
 Then, wait at most ten minutes till your own Github About Page has been shipped. 
 
-The Url would be [http://*your-github-ID*.github.io/about/](http://your-github-ID.github.io/about/)
+The URL would be [http://*your-github-ID*.github.io/about/](http://your-github-ID.github.io/about/)
 
 
 How to customise your own Github About Page?
 -----------------
-You can change your code to whatever you like because you have the ownership of the repository after you fork it. However, there are two ways to extend your Githua About Page easily:
+You can change your code to whatever you like because you have the ownership of the repository after you fork it. However, there are two ways to extend your Github About Page easily:
 
-1. config.json : in this file, you can extend your personal or repo information. For more details, plase check the comment in this file.
-2. css/style.css : in the bottom of this file, you can add your own stylesheet to make you repo card perfectly shows in your Github About Page.
+1. config.json : in this file, you can extend your personal or repo information. For more details, please check the comment in this file.
+2. css/style.css : in the bottom of this file, you can add your own stylesheet to make your repo card perfectly show in your Github About Page.
 
 
-How to keep update?
+How to keep updated?
 -----------------
-When there is a new version available, a notification will be shown on your **Github About Page**. Then you need to do some command work to make your Github About Page catching up the latest version.
+When there is a new version available, a notification will be shown on your **Github About Page**. Then you need to perform some command-line work to keep your Github About Page up to date with the latest version.
 
 1. [Syncing a fork in local](https://help.github.com/articles/syncing-a-fork).
 2. [Pushing a branch to remote](https://help.github.com/articles/pushing-to-a-remote#pushing-a-branch).
 
-Or, there is another eaiser method to do so:
+Or, there is another easier method to do so:
 
 1. Delete your **about** repository.
-2. Goto: [How to get your own Github About Page](https://github.com/AndreLion/about#how-to-get-your-own-github-about-page)
+2. Go to: [How to get your own Github About Page](https://github.com/AndreLion/about#how-to-get-your-own-github-about-page)
 
 
-Acknowledge
+Acknowledgements
 ----------------
 This project is powered by jQuery, Bootstrap, [Github API](http://developer.github.com/) and [Packery](http://packery.metafizzy.co/).
 
